@@ -1,0 +1,11 @@
+Websokets::herramienta que nos permite anadir funcionalidades de tiempo real a nuestras app web.
+Websockets:: es un API de HTML% que provee comunicacion en tiempo real.Permite el flujo de data en tiempo real.
+ejemplos: juego en la web multijugadores, edicion de codigo colaborativo, dibujo de cnavas online,
+notificaciones, operaciones CRUD en tiempo real y chats.
+
+==> La web funciona con una arquitectura(es la estructura donde se ponen los componetes de un sistema y como se comunican entre ellos) cliente-servidor::
+Arquitectura cliente-servidor:sig. hay una maquina cliente y una servidor, el cliente solcita recurso al servidor, y el servidor responde.
+
+===>Ajax: permite hacer una peticion que actualice solo un fragmento(partes especificas de la web) de la pg web. en ajax se hace una peticion y el servidor te da 
+una respuesta(la cual hay que esperar)
+===>Websockets: Los Websockets siempre hay un canal abireto por el vienen y van datos, no hay una estructura de peticion y res como en ajax
